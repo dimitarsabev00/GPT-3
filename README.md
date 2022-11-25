@@ -1,6 +1,6 @@
 # GPT-3 - Fully Responsive Modern UI/UX Landing Page
 
-## I took the figma design and turned it into a beautiful landing page built by ReactJS
+## I Took The Figma Design And Turned It Into A Beautiful Landing Page Built By ReactJS With CSS
 
 ## Available Scripts
 
